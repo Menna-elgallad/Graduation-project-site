@@ -8,7 +8,7 @@
             br
             
             span  Recognition 
-        img(src="/vector 1.png")
+        img(src="/vector1.png")
         p(style="margin-top:1rem  ; color: black ; font-weight  : bold")
             span Automatic ANPR system is for university which 
             br
